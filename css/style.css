@@ -190,7 +190,7 @@ body {
   position: relative;
   height: 52rem; }
   .card__side {
-    color: #fff;
+    background-color: #fff;
     font-size: 2rem;
     height: 50rem;
     transition: all .8s ease;
